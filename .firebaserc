@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "medication-planner-9cff5": {
+      "hosting": {
+        "app": [
+          "medication-planner-9cff5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "medication-planner-9cff5"
+  }
+}

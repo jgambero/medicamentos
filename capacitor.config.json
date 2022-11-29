@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "app-medication-planner",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
